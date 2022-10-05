@@ -2,7 +2,7 @@
 
 Get your Pong on at:    https://replit.com/@MagdaZaras/APPPong-game#main.py   
 
-#Controls:
+# Controls:
 - Player 1 controls: 'w' for up, 's' for down 
 - Player 2 controls: Up and Down arrows 
 
