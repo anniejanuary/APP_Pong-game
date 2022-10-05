@@ -24,8 +24,3 @@ while keep_ballin:
     ball.ball_move(keep_ballin, user1_paddle, user2_paddle)
 
 screen.exitonclick()
-
-# BUGS:
-# -when ball hits the edge of a paddle it zigzags which adds +1 to score a multiple times, then bounces like it would normally
-# -if the scoreboard is shown from the start as 0:0, the updated score doesnt overwrite it but writes on top of the previous one
-# -replit lags on key controls of the paddles
