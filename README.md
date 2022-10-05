@@ -9,6 +9,6 @@ CONTROLS:
 - Player 2 controls: Up and Down arrows 
 
 Known bugs (to be fixed):
--when ball hits the edge of a paddle it zigzags which adds +1 to score a multiple times, then bounces like it would normally
--if the scoreboard is shown from the start as 0:0, the updated score doesnt overwrite it but writes on top of the previous one
--replit lags on key controls of the paddles
+- when ball hits the edge of a paddle it zigzags which adds +1 to score a multiple times, then bounces like it would normally
+- if the scoreboard is shown from the start as 0:0, the updated score doesnt overwrite it but writes on top of the previous one
+- replit lags on key controls of the paddles
